@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SparseMacArthur"
+  site-url: "https://LifeWorks.github.io/SparseMacArthur"
+  description: "A package for infering the MacArthur's consumer-resource model"
+  repo-branch: main
+  repo-url: "https://github.com/LifeWorks/SparseMacArthur"
